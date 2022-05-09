@@ -1,0 +1,146 @@
+header{
+    background: linear-gradient(45deg,rgba(7, 63, 88, 0.932), rgb(10, 112, 126));
+    padding: 20px 0;
+    padding-left: 15px;
+}
+
+
+
+.ico-page{
+    width: 20%;
+    padding: 0px 0px;
+    padding-left: 10px;
+}
+
+h2{
+    color: white;
+}
+
+.texto-welcome{
+   padding-left: 200px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+    color: white;
+}
+
+.cajita-input{
+  margin-left: 200px;
+  width: 20%;
+  height: 40px;
+  margin-top: 50px;
+  border: none;
+}
+
+.area-texto{
+    margin-left: 600px;
+    padding:  0px 0px 5px;
+}
+
+.boton-codi{
+   background: linear-gradient(45deg,rgba(7, 63, 88, 0.932), rgb(110, 24, 223));
+	border-radius: 24px;
+    color: #fff;
+    width: 130px;
+    height: 40px;
+    margin-left: 180px;
+    margin-right: 20px;
+    margin-top: 15px;
+
+}
+.boton-deco{
+    background: linear-gradient(45deg,rgba(7, 63, 88, 0.932), rgb(248, 86, 113));
+	border-radius: 24px;
+    color: #fff;
+    width: 120px;
+    height: 40px;
+    margin-top: 120px;
+}
+
+.boton-copiar{
+    background-color: rgb(11, 141, 192);
+	border-radius: 24px;
+    border-radius: 24px;
+    color: #fff;
+    width: 120px;
+    height: 40px;
+    margin-top: 120px;
+    margin-left: 230px;
+
+}
+
+.boton-copy{
+    background-color: rgb(11, 141, 192);
+	border-radius: 24px;
+    border-radius: 24px;
+    color: white;
+    width: 120px;
+    height: 40px;
+    margin-left: 100px;
+
+}
+
+
+#mensaje{
+    min-height: 200px;
+    background-color: #fff;
+    border-radius: 32px;
+    width: 40%;
+    align-items:center;
+ 
+}
+
+.area-texto{
+    height: 40px;
+}
+
+p{
+    margin-left: 25px;
+    padding: 5px;
+    color: white;
+}
+
+.logo-academy{
+ width: 8%;
+ margin-left: 1150px;
+}
+
+footer{
+    background-color: white;
+    height: 120px;
+}
+
+.mensaje-footer{
+margin-left: 450px;
+margin-top: 80px;
+color: black;
+
+}
+
+.ico-footer{
+    width: 8%;
+    margin-left: 600px;
+}
+
+.ico-f{
+    width: 25%;
+
+}
+
+.ico-lk{
+    width: 25%;
+}
+
+.cajita-mensaje p{
+    color: black;
+    margin-left: 120px;
+    padding: 15px;
+}
+
+.clave{
+    color: black;
+}
+
+#muñeco{
+    margin-top: 18px;
+}
