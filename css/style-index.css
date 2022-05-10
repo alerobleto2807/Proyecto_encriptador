@@ -144,3 +144,29 @@ color: black;
 #muñeco{
     margin-top: 18px;
 }
+
+/* creando el responsive del proyecto para celular*/
+@media screen and (max-width:480px) {
+    .boton-codi, .boton-deco, .boton-copy{
+        width: auto;
+
+    }
+ 
+    header{
+        width: 480%;
+    }
+ 
+    footer{
+        width: 280%;
+    }
+ 
+    .area-texto{
+        margin-top: 250px;
+    }
+
+    .cajita-input{
+        width: auto;
+
+       
+    }
+ }
